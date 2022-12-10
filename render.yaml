@@ -1,7 +1,7 @@
 databases:
   - name: Charter_Djagno_App
     databaseName: Charter_Django_App
-    user: Charter_Djagno_App
+    user: Charter_Django_App
 
 services:
   - type: web
